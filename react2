@@ -1,0 +1,9 @@
+src/
+|-- components/
+|   |-- ExpenseItem.js
+|   |-- ExpenseDetails.js
+|-- styles/
+|   |-- styles.css
+|-- App.js
+|-- index.js
+|-- ...
